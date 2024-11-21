@@ -29,6 +29,9 @@ Once cloned to local storage, install the packages in the terminal and run 'node
     This project is licensed under the MIT license.
 [MIT](https://opensource.org/licenses/MIT)
 
+## Tutorial Video
+https://drive.google.com/file/d/1FZpjIIVr8_yBaV0rR_iswUm3ARArTPpL/view
+
 ## Questions
 [GitHub]https://github.com/isaiahg46
 
