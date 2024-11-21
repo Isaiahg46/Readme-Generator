@@ -29,6 +29,9 @@ Once cloned to local storage, install the packages in the terminal and run 'node
     This project is licensed under the MIT license.
 [MIT](https://opensource.org/licenses/MIT)
 
+## Code Location
+All of the files are located within the "Develop" folder. The code for the markdown javascript file is located within the "util" folder which is in the develop folder.
+
 ## Tutorial Video
 https://drive.google.com/file/d/1FZpjIIVr8_yBaV0rR_iswUm3ARArTPpL/view
 
