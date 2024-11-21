@@ -76,8 +76,8 @@ ${renderLicenseSection(data.license)}
 ${renderLicenseLink(data.license)}
 
 ## Questions
-[GitHub]${data.github}\n
-[Email]${data.email}
+[GitHub]https://github.com/${data.github}\n
+[Email] for more questions, email me at: ${data.email}
 
 `;
 }
